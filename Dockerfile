@@ -13,7 +13,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN playwright install
 
 # Copy the application code
-COPY ppppp.txt
+COPY ppppp.txt .
 
 # Expose the port the application will run on
 EXPOSE 8000
