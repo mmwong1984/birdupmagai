@@ -2,7 +2,6 @@ fastapi
 pydantic
 typing
 playwright
-fastapi-middleware-cors
 streaming-response
 asyncio
 string
