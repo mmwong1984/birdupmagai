@@ -1,4 +1,3 @@
-```
 # Use the official Python base image
 FROM python:3.10
 
@@ -21,4 +20,3 @@ EXPOSE 8000
 
 # Run the application
 CMD ["uvicorn", "server:app","--workers","4", "--host", "0.0.0.0", "--port", "8000"]
-```
