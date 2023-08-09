@@ -1,0 +1,13 @@
+fastapi
+pydantic
+typing
+playwright
+fastapi-middleware-cors
+streaming-response
+asyncio
+string
+time
+uvicorn
+random
+json
+logging
